@@ -1,69 +1,69 @@
 module.exports = {
-	port:4000,
+	port:4300,
 	routes:  [
 		{
 			path:"address",
-			port:"4001"
+			port:"4301"
 		},
 		{
 			path:"admin",
-			port:"4002"
+			port:"4302"
 		},
 		{
 			path:"categories",
-			port:"4003"
+			port:"4303"
 		},
 		{
 			path:"delivery",
-			port:"4004"
+			port:"4304"
 		},
 		{
 			path:"order",
-			port:"4005"
+			port:"4305"
 		},
 		{
 			path:"product",
-			port:"4006"
+			port:"4306"
 		},
 		{
 			path:"promocode",
-			port:"4007"
+			port:"4307"
 		},
 		{
 			path:"user",
-			port:"4008"
+			port:"4308"
 		},
 		{
 			path:"vendor",
-			port:"4009"
+			port:"4309"
 		},
 		{
 			path:"review",
-			port:"4010"
+			port:"4310"
 		},
 		{
 			path:"feedback",
-			port:"4011"
+			port:"4311"
 		},
 		{
 			path:"cart",
-			port:"4012"
+			port:"4312"
 		},
 		{
 			path:"adminCategory",
-			port:"4021"
+			port:"4313"
 		},
 		{
 			path:"adminProducts",
-			port:"4022"
+			port:"4313"
 		},
 		{
 			path:"adminDeliveryPartner",
-			port:"4023"
+			port:"4314"
 		},
 		{
 			path:"appDeliveryPartner",
-			port:"4024"
+			port:"4315"
 		}
 
 	]
