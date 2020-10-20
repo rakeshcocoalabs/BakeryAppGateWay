@@ -55,15 +55,15 @@ module.exports = {
 		},
 		{
 			path:"adminProducts",
-			port:"4313"
-		},
-		{
-			path:"adminDeliveryPartner",
 			port:"4314"
 		},
 		{
-			path:"appDeliveryPartner",
+			path:"adminDeliveryPartner",
 			port:"4315"
+		},
+		{
+			path:"appDeliveryPartner",
+			port:"4316"
 		}
 
 	]

@@ -1,7 +1,7 @@
 module.exports = {
     apps : [
     {
-      name: 'Ecommerce-app API Gateway',
+      name: 'Bakery-App API Gateway',
       script: 'app.js', 
       instances: 1,
       autorestart: true,
